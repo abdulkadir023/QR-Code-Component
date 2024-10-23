@@ -24,7 +24,7 @@ Developing a QR-code component project using HTML and CSS.
 
 - Desktop
 
-![](./images/Screenshot(Desktop).png.png)
+![](./images/Screenshot(Desktop).png)
 
 - Mobile
 
