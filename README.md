@@ -34,7 +34,7 @@ Developing a QR-code component project using HTML and CSS.
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/abdulkadir023/Qr-Code-Component)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://qr-code-component-abdulkadir023s-projects.vercel.app/)
 
 ## My process
 
